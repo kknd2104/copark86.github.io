@@ -26,8 +26,7 @@ date: 2018-05-21
 ![1](http://copark86.github.io/files/Screenshot from 2017-09-11 04-54-21.png)
 <br>
 
-# Related meterials
-
+Related meterials
 :   [Paper download](https://arxiv.org/pdf/1709.01265)
 :   [Poster download](http://copark86.github.io/files/elasticlidarfusion_poster.pdf)
 :   [Presentation download](http://copark86.github.io/files/elasticlidarfusion_ppt.pdf)
