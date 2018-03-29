@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 - 5+ years research experience in computer vision algorithm design, simulation, implementation and evaluation. 
-- Solid computer vision, robotics, embedded system, stochastic filtering and optimization background.
-- Hands on experience with 2D/2.5D/3D machine vision, SLAM, and industrial manipulator.
+- Solid computer vision, robotics, embedded system, and optimization background.
+- Hands on experience with probabilistic sensor fusion, SLAM, 2D/3D machine vision, and industrial manipulator.
 - Strong analytical, problem-solving skills. Excellent communication, teamwork and leadership skills.
 
-Specialties: 2D/3D Machine Vision, Image Processing, SLAM, Photogrammetry, Robust Optimization, FPGA and Embedded system.
+Specialties: SLAM, Photogrammetry, Sensor Fusion, Robust Optimization, 2D/3D Machine Vision, FPGA and Embedded system.
 
