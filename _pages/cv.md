@@ -70,9 +70,37 @@ Skills
 * Other Skills
   * Prior experience with SolidWorks, PowerMill, Orcad
   
-Publications
+Other Project   
+======
+* ZYNQ (ARM+FPGA) based open multi-camera HW platform for robotics application		 Now
+* Designed and implemented 3D around-view algorithm						 2015
+* Implementation of indoor 3D reconstruction by Kinect and graph optimization			 2014
+
+
+Honors & awards    
+======
+* 2nd place, 7th SoC design contest, Project Title: "Visual Fatigue Reduction HW for User Comfort", Ministry of Trade, Industry and Energy & Seoul National University, 2011.
+* 2nd place, Core-A application design contest 2011, Project Title: "A bio-medical instrument using Core-A", Korean Intellectual Property Office & Korea Advanced Institute of Science and Technology, 2011.
+* 5th place, Core-A application design contest 2010, Awarded Project Title: "Disparity map accelerator using Core-A", Korean Intellectual Property Office & Korea Advanced Institute of Science and Technology, 2010.
+* Brain Korea 21 Fellowship, 2010~2011.
+* IDEC scholarship, Korea Advanced Institute of Science and Technology, 2011.
+* Appreciation Award at International Capstone Design Fair, Project Title: uDoctor-Health Care System, 2008.
+* Tuition fee waiver scholarship (USD 15,500), Seoul National University of Science and Technology, 2005~2009.
+
+Technical Reports          
+======
+* Chanoh Park, Conics-based circular feature pose determination Summary & Derivation, 2015.
+* Chanoh Park, 3D Around View, 2015.
+* Chanoh Park, Line laser scanner localization by plane and multi-cones intersection, 2014.
+* Chanoh Park, Robot kinematics calibration using spherical artifact, 2013.
+
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+* Technical Reports 
+  * Chanoh Park, Conics-based circular feature pose determination Summary & Derivation, 2015.
+  * Chanoh Park, 3D Around View, 2015.
+  * Chanoh Park, Line laser scanner localization by plane and multi-cones intersection, 2014.
+  * Chanoh Park, Robot kinematics calibration using spherical artifact, 2013.
