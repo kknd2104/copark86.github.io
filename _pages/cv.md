@@ -36,29 +36,29 @@ Research Experience
     * Research of Map-centric Continuous-Time SLAM (Simultaneous Localization and Mapping)
     * Research topics: Visual-Inertial-LiDAR SLAM, Probabilistic Sensor Fusion, Robust Optimization, Life-long mapping
 
-eZRobotics, Suwon, Korea                                                  Sep 2012 - Jan 2016
-Industrial manipulator simulator and machine vision company. 
-*This period was a substitute for mandatory military service, a special exception for researchers in Korea.
-Research Engineer (Sep 2012 - Jan 2016)
-Design, simulation, implementation, and validation of vision-based industrial manipulator kinematics calibration and 3D/2D vision-based robot guidance algorithm.
-Developed a manipulator-based high-precision 3D measurement device with large working volume.
+* eZRobotics, Suwon, Korea                                                  Sep 2012 - Jan 2016
+  * Industrial manipulator simulator and machine vision company. 
+  * *This period was a substitute for mandatory military service, a special exception for researchers in Korea.
+  * Research Engineer (Sep 2012 - Jan 2016)
+    * Design, simulation, implementation, and validation of vision-based industrial manipulator kinematics calibration and 3D/2D vision-based robot guidance algorithm.
+    * Developed a manipulator-based high-precision 3D measurement device with large working volume.
 
-Intelligent Systems Research Institute, SKKU, Suwon, Korea			   Jan 2012 - Aug 2012
-Research Assistant (Jan 2012 - Aug 2012)
-Collaborated in a team to develop a robust 3D object recognition and pose estimation based on double layered particle filtering.
-Implementation of orientation SLAM and simple mono SLAM, intensively reviewed open source materials on filtering-based/graph-based SLAM, and structure from motion.
+* Intelligent Systems Research Institute, SKKU, Suwon, Korea			   Jan 2012 - Aug 2012
+  * Research Assistant (Jan 2012 - Aug 2012)
+    * Collaborated in a team to develop a robust 3D object recognition and pose estimation based on double layered particle filtering.
+    * Implementation of orientation SLAM and simple mono SLAM, intensively reviewed open source materials on filtering-based/graph-based SLAM, and structure from motion.
 
-VLSI Algorithmic Design Automation Lab, SKKU, Suwon, Korea		   May 2010 - Dec 2011
-Research Assistant (May 2010 - Dec 2011)
-Designed a fast stereo matching algorithm with wide-dynamic search range, implemented FPGA version of depth map generator.
-Research and development into improvement of 3D video quality of stereoscopic camera by real-time depth map.
-Research and development of high-speed structured light 3D scanner on FPGA.
+* VLSI Algorithmic Design Automation Lab, SKKU, Suwon, Korea		   May 2010 - Dec 2011
+  * Research Assistant (May 2010 - Dec 2011)
+    * Designed a fast stereo matching algorithm with wide-dynamic search range, implemented FPGA version of depth map generator.
+    * Research and development into improvement of 3D video quality of stereoscopic camera by real-time depth map.
+    * Research and development of high-speed structured light 3D scanner on FPGA.
 
-Institute for Biomedical Electronics, SNUT, Seoul, Korea	       		  May 2006 – Dec 2009
-Research Assistant (May 2006 - Dec 2009)
-Research and implementation of a portable bio-signal processing module.
-Designed analogue filter circuits for estimating ECG and PPG, an analogue signal stabilizer circuit for stable measurement of bio-signals, implemented analogue and digital mixed signal PCB with an 8-bit microprocessor.
-Implemented digital signal processing algorithms for bio-signals.
+* Institute for Biomedical Electronics, SNUT, Seoul, Korea	       		  May 2006 – Dec 2009
+  * Research Assistant (May 2006 - Dec 2009)
+    * Research and implementation of a portable bio-signal processing module.
+    * Designed analogue filter circuits for estimating ECG and PPG, an analogue signal stabilizer circuit for stable measurement of bio-signals, implemented analogue and digital mixed signal PCB with an 8-bit microprocessor.
+    * Implemented digital signal processing algorithms for bio-signals.
   
 Skills
 ======
