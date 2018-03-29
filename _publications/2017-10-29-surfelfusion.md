@@ -1,5 +1,6 @@
 ---
 title: "Probabilistic Surfel Fusion for Dense LiDAR Mapping (click here for more information)"
+excerpt: "Map-centric LiDAR SLAM<br/><img src='/images/500x300.png'>"
 collection: publications
 permalink: /publication/2017-10-29-surfelfusion
 ---
