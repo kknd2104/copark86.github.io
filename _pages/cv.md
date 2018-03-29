@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic and Information Engineering, Seoul National University of Science and Technology (SNUT), Seoul, Korea, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Doctor of Science in Electrical Engineering and Computer Science, Nov 2019(expected)
+Commonwealth Scientific and Industrial Research Organisation (CSIRO), Brisbane, Queensland, Australia
+Queensland University of Technology (QUT), Brisbane, Queensland, Australia
+
+* Master of Science in Electrical and Computer Engineering, Feb 2012
+Sungkyunkwan University (SKKU), Suwon, Korea
+
+* Bachelor of Science in Electronic and Information Engineering, Feb 2010
+Seoul National University of Science and Technology (SNUT), Seoul, Korea
 
 Work experience
 ======
