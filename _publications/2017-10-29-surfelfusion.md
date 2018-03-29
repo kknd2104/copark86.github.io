@@ -1,6 +1,7 @@
 ---
 title: "Probabilistic Surfel Fusion for Dense LiDAR Mapping (click here for more information)"
 collection: publications
+excerpt: "For autonomous cars<br/><img src='/images/500x300.png'>"
 permalink: /publication/2017-10-29-surfelfusion
 ---
 
