@@ -5,9 +5,11 @@ permalink: /publication/2018-05-21-elasticlidarfusion
 date: 2018-05-21
 ---
 
-Chanoh Park, Peyman Moghadam, Soohwan Kim, Alberto Elfes, Clinton Fookes, Sridha Sridharan, "Elastic LiDAR Fusion: Dense Map-Centric Continuous-Time SLAM", ICRA 2018.
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QNNLncT9XmQ" frameborder="0" allow="autoplay; encrypted-media"> </iframe>
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Related meterials
+:   [Paper download](https://arxiv.org/pdf/1709.01265)
+:   [Poster download](http://copark86.github.io/files/surfelfusion_poster.pdf)
+:   [Presentation download](http://copark86.github.io/files/surfelfusion_ppt.pdf)
+
