@@ -2,7 +2,8 @@
 title: "Probabilistic Surfel Fusion for Dense LiDAR Mapping(click here for more information)"
 collection: publications
 permalink: /publication/2017-10-29-surfelfusion
-date: 2017-10-29
+
+
 citation: 'Chanoh Park, Soohwan Kim, Peyman Moghadam, Clinton Fookes, Sridha Sridharan, "Probabilistic Surfel Fusion for Dense LiDAR Mapping", ICCV workshop 2017'
 ---
 
