@@ -13,8 +13,7 @@ permalink: /publication/2017-10-29-surfelfusion
 
 
 
-# Related meterials
-
+Related meterials
 :   [Paper download](https://arxiv.org/pdf/1711.01691)
 :   [Poster download](http://copark86.github.io/files/surfelfusion_poster.pdf)
 :   [Presentation download](http://copark86.github.io/files/surfelfusion_ppt.pdf)
