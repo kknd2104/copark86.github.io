@@ -2,10 +2,10 @@
 title: "Elastic LiDAR Fusion: Dense Map-Centric Continuous-Time SLAM"
 collection: publications
 permalink: /publication/2018-05-21-elasticlidarfusion
-excerpt: "Chanoh Park, Peyman Moghadam, Soohwan Kim, Alberto Elfes, Clinton Fookes, Sridha Sridharan, ICRA 2018.<img src='/images/500x300.png'>"
+excerpt: "Chanoh Park, Peyman Moghadam, Soohwan Kim, Alberto Elfes, Clinton Fookes, Sridha Sridharan, ICRA 2018.<iframe width="560" height="315" src="https://www.youtube.com/embed/QNNLncT9XmQ" frameborder="0" allow="autoplay; encrypted-media"> </iframe>"
 date: 2018-05-21
 ---
-.
+
 
 # Demovideo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNNLncT9XmQ" frameborder="0" allow="autoplay; encrypted-media"> </iframe>
