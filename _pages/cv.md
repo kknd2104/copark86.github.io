@@ -14,7 +14,7 @@ Education
 * Doctor of Science in Electrical Engineering and Computer Science
   * Commonwealth Scientific and Industrial Research Organisation (CSIRO), Brisbane, Queensland, Australia
   * Queensland University of Technology (QUT), Brisbane, Queensland, Australia
-  * Joint PhD program, Nov 2019(expected)
+  * Joint PhD program, Nov 2019(expected)
 
 * Master of Science in Electrical and Computer Engineering
   * Sungkyunkwan University (SKKU), Suwon, Korea, Feb 2012
@@ -38,7 +38,7 @@ Research Experience
 
 * eZRobotics, Suwon, Korea                                                  Sep 2012 - Jan 2016
   * Industrial manipulator simulator and machine vision company. 
-  * *This period was a substitute for mandatory military service, a special exception for researchers in Korea.
+    * This period was a substitute for mandatory military service, a special exception for researchers in Korea.
   * Research Engineer (Sep 2012 - Jan 2016)
     * Design, simulation, implementation, and validation of vision-based industrial manipulator kinematics calibration and 3D/2D vision-based robot guidance algorithm.
     * Developed a manipulator-based high-precision 3D measurement device with large working volume.
