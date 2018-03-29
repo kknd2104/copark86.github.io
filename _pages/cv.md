@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Doctor of Science in Electrical Engineering and Computer Science, Nov 2019(expected)
-Commonwealth Scientific and Industrial Research Organisation (CSIRO), Brisbane, Queensland, Australia
-Queensland University of Technology (QUT), Brisbane, Queensland, Australia
+  * Commonwealth Scientific and Industrial Research Organisation (CSIRO), Brisbane, Queensland, Australia
+  * Queensland University of Technology (QUT), Brisbane, Queensland, Australia
 
 * Master of Science in Electrical and Computer Engineering, Feb 2012
 Sungkyunkwan University (SKKU), Suwon, Korea
