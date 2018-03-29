@@ -1,5 +1,5 @@
 ---
-title: "2Elastic LiDAR Fusion: Dense Map-Centric Continuous-Time SLAM (click here for more information)"
+title: "1Elastic LiDAR Fusion: Dense Map-Centric Continuous-Time SLAM (click here for more information)"
 collection: publications
 permalink: /publication/2018-05-21-elasticlidarfusion
 date: 2018-05-21
