@@ -7,4 +7,4 @@ collection: portfolio
 
 ![1](http://copark86.github.io/images/Recent Research Summary-03.png)
 ![1](http://copark86.github.io/images/Recent Research Summary-04.png)
-![1](http://copark86.github.io/images/Recent Research Summary-05.png)
+
