@@ -1,6 +1,6 @@
 ---
 title: "Robot based gauge system"
-excerpt: "For autonomous cars<br/><img src='/images/500x300.png'>"
+excerpt: "For autonomous cars<br/><img src='/images/robotacs.png'>"
 collection: portfolio
 ---
 
