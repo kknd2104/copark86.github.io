@@ -4,7 +4,7 @@ excerpt: "For industrial robots<br/><img src='/images/500x300.png'>"
 date: 2014-01-01
 collection: portfolio
 ---
-
+![1](http://copark86.github.io/images/Recent Research Summary-10.png)
 ![1](http://copark86.github.io/images/Recent Research Summary-11.png)
 ![1](http://copark86.github.io/images/Recent Research Summary-12.png)
 ![1](http://copark86.github.io/images/Recent Research Summary-13.png)
