@@ -1,6 +1,6 @@
 ---
 title: "Conics-based circular feature pose determination"
-excerpt: "For industrial robots<br/><img src='/images/500x300.png'>"
+excerpt: "For industrial robots<br/><img src='/images/opening_main.png'>"
 date: 2014-01-01
 collection: portfolio
 ---
