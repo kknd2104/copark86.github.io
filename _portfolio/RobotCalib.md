@@ -1,6 +1,6 @@
 ---
 title: "Robot kinematics calibration using spherical artifact"
-excerpt: "6 DoF industrial robot calibration<br/><img src='/images/500x300.png'>"
+excerpt: "6 DoF industrial robot calibration<br/><img src='/images/calib_main.png'>"
 date: 2013-01-01
 collection: portfolio
 ---
