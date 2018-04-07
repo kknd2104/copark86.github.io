@@ -1,6 +1,6 @@
 ---
 title: "Low Visual Fatigue Stereoscopic Auto-focus"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/stereo_main.png'>"
 date: 2011-12-01
 collection: portfolio
 ---
