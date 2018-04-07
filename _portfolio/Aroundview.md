@@ -1,6 +1,6 @@
 ---
 title: "3D Around View"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/around_main.png'>"
 collection: portfolio
 date: 2015-05-01
 ---
