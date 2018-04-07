@@ -1,5 +1,5 @@
 ---
-title: "Probabilistic Surfel Fusion for Dense LiDAR Mapping"
+title: "<i>Probabilistic Surfel Fusion for Dense LiDAR Mapping</i>"
 collection: publications
 excerpt: "Chanoh Park, Soohwan Kim, Peyman Moghadam, Clinton Fookes, Sridha Sridharan, ICCV workshop 2017.
 
