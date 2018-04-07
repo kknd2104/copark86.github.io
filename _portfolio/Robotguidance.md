@@ -1,6 +1,6 @@
 ---
 title: "Vision based robot guidance system"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/guide_main.png'>"
 date: 2014-01-01
 collection: portfolio
 ---
