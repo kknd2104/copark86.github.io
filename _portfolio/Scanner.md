@@ -1,6 +1,6 @@
 ---
 title: "Structured-light 3D Scanner"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/scanner_main.png'>"
 date: 2010-12-01
 collection: portfolio
 ---
