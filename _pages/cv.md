@@ -24,7 +24,7 @@ Education
   * Seoul National University of Science and Technology (SNUT), Seoul, Korea, Feb 2010
 
 
-Gratuate Courses
+Graduate Courses
 ======
 Pattern Recognition, Robot Vision, Optimization Methods, Computer Vision, Computer Vision Theory, Genetic Algorithms, Advanced Probability and Random Processes, Microprocessor Applications, Advanced Network Design, Lower Power VLSI Design, Analog/Mixed-Signal Design, Digital Integrated Circuits
 
