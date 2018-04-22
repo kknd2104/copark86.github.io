@@ -5,7 +5,7 @@ permalink: /post/2018-04-22-LatexNote
 tags:
   - latex
 ---
-Latex note
+Latex note $\xi$
 
 	\usepackage{amsmath}
 	
