@@ -18,6 +18,7 @@ Upper & underbrace
   
 
 
-  
+$z = \overbrace{\underbrace{x}_\text{real} +\underbrace{iy}_\text{imaginary}}^\text{complex number}$
+
 
 
