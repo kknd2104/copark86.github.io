@@ -1,7 +1,7 @@
 ---
 title: 'Latex Note'
 date: 2018-04-22
-permalink: /_posts/2018-04-22-LatexNote
+permalink: /post/2018-04-22-LatexNote
 tags:
   - latex
 ---
@@ -18,3 +18,4 @@ Latex note
 
   
 $z = \overbrace{\underbrace{x}_\text{real} +\underbrace{iy}_\text{imaginary}}^\text{complex number}$
+
