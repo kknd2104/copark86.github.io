@@ -1,7 +1,7 @@
 ---
 title: 'Latex Note'
 date: 2018-04-22
-permalink: /posts/2012/08/blog-post-2/
+permalink: /posts/2018-04-22-LatexNote/
 tags:
   - latex
 ---
