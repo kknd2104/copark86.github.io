@@ -5,8 +5,10 @@ permalink: /post/2018-04-22-LatexNote
 tags:
   - latex
 ---
-Latex note $\xi$
+Latex note 
 
+
+Upper & underbrace
 	\usepackage{amsmath}
 	
 	z = \overbrace{
@@ -17,5 +19,5 @@ Latex note $\xi$
 
 
   
-$z = \overbrace{\underbrace{x}_\text{real} +\underbrace{iy}_\text{imaginary}}^\text{complex number}$
+
 
