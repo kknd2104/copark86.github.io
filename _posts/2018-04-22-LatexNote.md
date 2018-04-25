@@ -11,8 +11,7 @@ Latex note
 Upper & underbrace
 -------------------------------
 
-	\usepackage{amsmath}
-	
+	\usepackage{amsmath}	
 	z = \overbrace{
 	\underbrace{x}_\text{real} +
 	\underbrace{iy}_\text{imaginary}
