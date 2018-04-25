@@ -7,7 +7,7 @@ tags:
 ---
 Latex note 
 
-<div></div>
+
 Upper & underbrace
 -------------------------------
 
