@@ -7,7 +7,7 @@ tags:
 ---
 Latex note 
 
-
+<div></div>
 Upper & underbrace
 
 	\usepackage{amsmath}
@@ -17,6 +17,10 @@ Upper & underbrace
 	\underbrace{iy}_\text{imaginary}
 	}^\text{complex number}
   
-
-
 <div>$z = \overbrace{\underbrace{x}_\text{real} +\underbrace{iy}_\text{imaginary}}^\text{complex number}$</div>
+
+
+Upper & underbrace
+	\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)
+
+<div>$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$</div>
