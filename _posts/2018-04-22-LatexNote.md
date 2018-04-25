@@ -9,7 +9,7 @@ Latex note
 
 <div></div>
 Upper & underbrace
-
+-------------------------------
 	\usepackage{amsmath}
 	
 	z = \overbrace{
@@ -20,7 +20,19 @@ Upper & underbrace
 <div>$z = \overbrace{\underbrace{x}_\text{real} +\underbrace{iy}_\text{imaginary}}^\text{complex number}$</div>
 
 
-Upper & underbrace
-	\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)
-
+Parentheses
+-------------------------------
+    \Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)
+	
 <div>$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$</div>
+
+Markdown
+-------------------------------
+    $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+
+
+<div>$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$</div>
+
+    $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+ 
+<div>$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$</div>
