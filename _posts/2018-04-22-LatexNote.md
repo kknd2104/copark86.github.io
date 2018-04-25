@@ -20,7 +20,3 @@ Upper & underbrace
 
 
 <div>$z = \overbrace{\underbrace{x}_\text{real} +\underbrace{iy}_\text{imaginary}}^\text{complex number}$</div>
-
-![example showing the result of \underbrace{•} and \overbrace{•}][4]
-
-  [4]: http://i.stack.imgur.com/uNgnp.png
