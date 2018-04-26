@@ -35,18 +35,18 @@ And just optimize the pose related terms only.
 
 
 
-$\bar{\textbf{H}}_{cc}=\textbf{H}_{cc}-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{H}_{sc}$
+<div>$\bar{\textbf{H}}_{cc}=\textbf{H}_{cc}-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{H}_{sc}$</div>
 
-$\bar{\textbf{g}}_{c}=\textbf{g}_{c}-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{g}_{s}$
+<div>$\bar{\textbf{g}}_{c}=\textbf{g}_{c}-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{g}_{s}$</div>
 
-$\bar{\textbf{H}}_{cc}\mathbf{\xi}_c =\bar{\textbf{g}}_{c}$
+<div>$\bar{\textbf{H}}_{cc}\mathbf{\xi}_c =\bar{\textbf{g}}_{c}$</div>
 
 Here my question arises. If we can calculate 3d points $\textbf{p}_i$ by the triangulation, only $\textbf{T}_j$ are the state variable to be estimated. 
 
-Then, why are we bothered to calculate marginalization related terms $-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{H}_{sc}$ and $-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{g}_{s}$ instead of optimizing only poses by ${\textbf{H}}_{cc}\mathbf{\xi}_c ={\textbf{g}}_{c}$ (note that H and g are without bar).
+Then, why are we bothered to calculate marginalization related terms <div>$-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{H}_{sc}$ and $-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{g}_{s}$</div> instead of optimizing only poses by ${\textbf{H}}_{cc}\mathbf{\xi}_c ={\textbf{g}}_{c}$ (note that H and g are without bar).
 
-I guess  ${\textbf{H}}_{cc}\mathbf{\xi}_c ={\textbf{g}}_{c}$ is enough to find the optimal poses $\textbf{T}_j$.
+I guess  <div>${\textbf{H}}_{cc}\mathbf{\xi}_c ={\textbf{g}}_{c}$</div> is enough to find the optimal poses $\textbf{T}_j$.
 
-So, my question was why do we use $\bar{\textbf{H}}_{cc}\mathbf{\xi}_c =\bar{\textbf{g}}_{c}$ instead of ${\textbf{H}}_{cc}\mathbf{\xi}_c ={\textbf{g}}_{c}$?
+So, my question was why do we use <div>$\bar{\textbf{H}}_{cc}\mathbf{\xi}_c =\bar{\textbf{g}}_{c}$</div> instead of ${\textbf{H}}_{cc}\mathbf{\xi}_c ={\textbf{g}}_{c}$?
 
 Answer is simple. 
