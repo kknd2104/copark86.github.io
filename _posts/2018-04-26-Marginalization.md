@@ -14,7 +14,7 @@ A common practice in Bundle Adjustment is to reduce the state dimension by margi
 
 In case 3d points(structure) $\textbf{p}_i$ are marginalized out as follows, $\textbf{p}_i$ are triangulated to calculate residual $\textbf{e}$.
 
-$\textbf{e} = \textbf{z}_{ij} - \pi(\textbf{T}_j\textbf{p}_i)$ 
+$$\textbf{e} = \textbf{z}_{ij} - \pi(\textbf{T}_j\textbf{p}_i)$$ 
 
 where $\textbf{T}_j\in SE(3), \textbf{p}_i\in R^3$ are the states we want to estimate and $\textbf{z}_{ij}$ is the observed feature in $R^2$.
 
