@@ -20,7 +20,7 @@ where <div>$\textbf{T}_j\in SE(3), \textbf{p}_i\in R^3$</div> are the states we 
 
 And just optimize the pose related terms only.
 
-$\begin{bmatrix}
+<div>$$\begin{bmatrix}
  \textbf{H}_{cc}& \textbf{H}_{cs} \\ 
 \textbf{H}_{sc} & \textbf{H}_{ss} 
 \end{bmatrix}
@@ -31,7 +31,7 @@ $\begin{bmatrix}
 \begin{bmatrix}
  \textbf{g}_{c} \\ 
 \textbf{g}_{s}  
-\end{bmatrix}$
+\end{bmatrix}$$</div>
 
 
 
