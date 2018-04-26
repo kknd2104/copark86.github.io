@@ -51,10 +51,10 @@ So, my question was why do we use <span>$\bar{\textbf{H}}\_{cc}\mathbf{\xi}\_c =
 
 Answer is simple. 
 
-Let's have a look at the Hessian H above.
+Let's have a look at the Hessian H of simulated BA.
 ![1](http://copark86.github.io/images/Hessian.jpg)
 
-Yello represents non zero element. When a structure is observed over multiple poses, Hessian make correlation terms.
+Yello represents non zero element and upper 60 by 60 matrix represent <span>${\textbf{H}}\_{cc}</span>. When a structure is observed over multiple poses, Hessian make correlation terms.
 
 ![2](http://copark86.github.io/images/Marginalization.jpg)
 
