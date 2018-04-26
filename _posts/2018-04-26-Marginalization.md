@@ -16,7 +16,7 @@ In case 3d points(structure) $\textbf{p}_i$ are marginalized out as follows, $\t
 
 $$\textbf{e} = \textbf{z}_{ij} - \pi(\textbf{T}_j\textbf{p}_i)$$ 
 
-where $\textbf{T}_j\in SE(3), \textbf{p}_i\in R^3$ are the states we want to estimate and $\textbf{z}_{ij}$ is the observed feature in $R^2$.
+where <div>$\textbf{T}_j\in SE(3), \textbf{p}_i\in R^3$</div> are the states we want to estimate and $\textbf{z}_{ij}$ is the observed feature in $R^2$.
 
 And just optimize the pose related terms only.
 
