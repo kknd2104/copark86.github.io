@@ -12,7 +12,7 @@ A common practice in Bundle Adjustment is to reduce the state dimension by margi
 
 
 
-In case 3d points(structure) $\textbf{p}_i$ are marginalized out as follows, $\textbf{p}_i$ are triangulated to calculate residual $\textbf{e}$.
+In case 3d points(structure) <div>$\textbf{p}_i$</div> are marginalized out as follows, <div>$\textbf{p}_i$</div> are triangulated to calculate residual $\textbf{e}$.
 
 <div>$$\textbf{e} = \textbf{z}_{ij} - \pi(\textbf{T}_j\textbf{p}_i)$$</div>
 
