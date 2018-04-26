@@ -12,4 +12,4 @@ A common practice in Bundle Adjustment is to reduce the state dimension by margi
 
 
 
-In case 3d points(structure) <div>$\textbf{p}\_i$</div> 
+In case 3d points(structure) <span>$\textbf{p}\_i$</span> 
