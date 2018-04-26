@@ -13,5 +13,5 @@ redirect_from:
 - Hands on experience with probabilistic sensor fusion, SLAM, 2D/3D machine vision, and industrial manipulator.
 - Strong analytical, problem-solving skills. Excellent communication, teamwork and leadership skills.
 
-Specialties: SLAM, Photogrammetry, Sensor Fusion, Robust Optimization, 2D/3D Machine Vision, FPGA and Embedded system.
+Specialties: SLAM, Deep Learning, Photogrammetry, Sensor Fusion, Robust Optimization, 2D/3D Machine Vision, FPGA and Embedded system.
 
