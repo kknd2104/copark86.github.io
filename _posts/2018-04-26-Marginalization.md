@@ -54,11 +54,13 @@ Answer is simple.
 Let's have a look at the Hessian H above.
 ![1](http://copark86.github.io/images/Hessian.jpg)
 
-Yello represents non zero element. When a structure is observed over multiple poses, Hessian make correlation terms as above.
+Yello represents non zero element. When a structure is observed over multiple poses, Hessian make correlation terms.
 
 ![2](http://copark86.github.io/images/Marginalization.jpg)
 
-Obiously, <span>${\textbf{H}}\_{cc}</span> doe <span>$\bar{\textbf{H}}\_{cc}\mathbf{\xi}\_c =\bar{\textbf{g}}\_{c}$</span> 
+Obiously, <span>${\textbf{H}}\_{cc}\mathbf{\xi}\_c ={\textbf{g}}\_{c}$</span> ignores the correlation terms. Therefore, each poses loose information of linkage, whereas in <span>$\bar{\textbf{H}}\_{cc}\mathbf{\xi}\_c =\bar{\textbf{g}}\_{c}$</span> off diagonal terms are added to Hessian which represents the rumped relationship miginalized from <span>$-\textbf{H}\_{cs}{\textbf{H}\_{ss}}^{-1}\textbf{H}\_{sc}$</span>.
+
+The benefit are faster convergence and low final error in optimization. 
 
 
 
