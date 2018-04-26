@@ -43,22 +43,22 @@ And just optimize the pose related terms only.
 
 Here my question arises. If we can calculate 3d points <span>$\textbf{p}_i$ by the triangulation, only $\textbf{T}_j$</span> are the state variable to be estimated. 
 
-Then, why are we bothered to calculate marginalization related terms <span>$-\textbf{H}\_{cs}{\textbf{H}\_{ss}}^{-1}\textbf{H}\_{sc}$</span> and <span>$-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{g}_{s}$</span> instead of optimizing only poses by <span>${\textbf{H}}_{cc}\mathbf{\xi}_c ={\textbf{g}}_{c}$</span> (note that H and g are without bar).
+Then, why are we bothered to calculate marginalization related terms <span>$-\textbf{H}\_{cs}{\textbf{H}\_{ss}}^{-1}\textbf{H}\_{sc}$</span> and <span>$-\textbf{H}\_{cs}{\textbf{H}\_{ss}}^{-1}\textbf{g}\_{s}$</span> instead of optimizing only poses by <span>${\textbf{H}}\_{cc}\mathbf{\xi}\_c ={\textbf{g}}\_{c}$</span> (note that H and g are without bar).
 
-I guess  <span>${\textbf{H}}_{cc}\mathbf{\xi}_c ={\textbf{g}}_{c}$</span> is enough to find the optimal poses <span>$\textbf{T}_j$</span>.
+I guess  <span>${\textbf{H}}\_{cc}\mathbf{\xi}\_c ={\textbf{g}}\_{c}$</span> is enough to find the optimal poses <span>$\textbf{T}\_j$</span>.
 
-So, my question was why do we use <span>$\bar{\textbf{H}}_{cc}\mathbf{\xi}_c =\bar{\textbf{g}}_{c}$</span> instead of <span>${\textbf{H}}_{cc}\mathbf{\xi}_c ={\textbf{g}}_{c}$</span>?
+So, my question was why do we use <span>$\bar{\textbf{H}}\_{cc}\mathbf{\xi}\_c =\bar{\textbf{g}}\_{c}$</span> instead of <span>${\textbf{H}}\_{cc}\mathbf{\xi}\_c ={\textbf{g}}\_{c}$</span>?
 
 Answer is simple. 
 
 Let's have a look at the Hessian H above.
 ![1](http://copark86.github.io/images/Hessian.jpg)
 
-Yello represents non zero element. The 
+Yello represents non zero element. When a structure is observed over multiple poses, Hessian make correlation terms as above.
 
 ![2](http://copark86.github.io/images/Marginalization.jpg)
 
-Obiously, <span>${\textbf{H}}_{cc}</span> doe <span>$\bar{\textbf{H}}_{cc}\mathbf{\xi}_c =\bar{\textbf{g}}_{c}$</span> 
+Obiously, <span>${\textbf{H}}\_{cc}</span> doe <span>$\bar{\textbf{H}}\_{cc}\mathbf{\xi}\_c =\bar{\textbf{g}}\_{c}$</span> 
 
 
 
