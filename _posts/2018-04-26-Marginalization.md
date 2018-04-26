@@ -14,7 +14,7 @@ A common practice in Bundle Adjustment is to reduce the state dimension by margi
 
 In case 3d points(structure) $\textbf{p}_i$ are marginalized out as follows, $\textbf{p}_i$ are triangulated to calculate residual $\textbf{e}$.
 
-$$\textbf{e} = \textbf{z}_{ij} - \pi(\textbf{T}_j\textbf{p}_i)$$ 
+<div>$$\textbf{e} = \textbf{z}_{ij} - \pi(\textbf{T}_j\textbf{p}_i)$$</div>
 
 where <div>$\textbf{T}_j\in SE(3), \textbf{p}_i\in R^3$</div> are the states we want to estimate and <div>$\textbf{z}_{ij}$</div> is the observed feature in $R^2$.
 
@@ -35,11 +35,11 @@ And just optimize the pose related terms only.
 
 
 
-<div>$\bar{\textbf{H}}_{cc}=\textbf{H}_{cc}-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{H}_{sc}$</div>
+<div>$$\bar{\textbf{H}}_{cc}=\textbf{H}_{cc}-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{H}_{sc}$$</div>
 
-<div>$\bar{\textbf{g}}_{c}=\textbf{g}_{c}-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{g}_{s}$</div>
+<div>$$\bar{\textbf{g}}_{c}=\textbf{g}_{c}-\textbf{H}_{cs}{\textbf{H}_{ss}}^{-1}\textbf{g}_{s}$$</div>
 
-<div>$\bar{\textbf{H}}_{cc}\mathbf{\xi}_c =\bar{\textbf{g}}_{c}$</div>
+<div>$$\bar{\textbf{H}}_{cc}\mathbf{\xi}_c =\bar{\textbf{g}}_{c}$$</div>
 
 Here my question arises. If we can calculate 3d points $\textbf{p}_i$ by the triangulation, only $\textbf{T}_j$ are the state variable to be estimated. 
 
