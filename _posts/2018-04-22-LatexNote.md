@@ -5,8 +5,7 @@ permalink: /post/2018-04-22-LatexNote
 tags:
   - latex
 ---
-Latex note 
-==================
+
 
 Upper & underbrace
 -------------------------------
@@ -37,3 +36,8 @@ Markdown
  
 <div>$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$</div>
 
+
+Two lined title
+-------------------------------
+
+\title{Project Proposal:  \protect\\ Deep Map Representation }
