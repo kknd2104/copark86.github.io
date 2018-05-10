@@ -7,12 +7,15 @@ redirect_from:
   - /resume
 ---
 
-Short version [here](http://copark86.github.io/files/CV_Chanoh_Park.pdf)
+Short version pdf [download](http://copark86.github.io/files/CV_Chanoh_Park.pdf)
 
 <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://copark86.github.io/files/CV_Chanoh_Park.pdf" width="500" height="375">
 
+CV long version
+=====
+
 Education
-======
+-----
 * Doctor of Science in Electrical Engineering and Computer Science
   * Commonwealth Scientific and Industrial Research Organisation (CSIRO), Brisbane, Queensland, Australia
   * Queensland University of Technology (QUT), Brisbane, Queensland, Australia
@@ -26,12 +29,12 @@ Education
 
 
 Graduate Courses
-======
+-----
 Pattern Recognition, Robot Vision, Optimization Methods, Computer Vision, Computer Vision Theory, Genetic Algorithms, Advanced Probability and Random Processes, Microprocessor Applications, Advanced Network Design, Lower Power VLSI Design, Analog/Mixed-Signal Design, Digital Integrated Circuits
 
 
 Research Experience
-======
+-----
 * Data61, CSIRO, Brisbane, Queensland, Australia, Nov 2016 - Present
   * Advisor: Peyman Moghadam, Alberto Elfes
   * PhD student (Nov 2016 - Present)
@@ -63,7 +66,7 @@ Research Experience
     * Implemented digital signal processing algorithms for bio-signals.
   
 Skills
-======
+-----
 * Programming
   * Adept in C/C++, Matlab, OpenGL, OpenCV, Verilog, git
   * Prior experience with PCL, ROS, Cuda, Shader
@@ -73,14 +76,14 @@ Skills
   * Prior experience with SolidWorks, PowerMill, Orcad
   
 Other Project   
-======
+-----
 * ZYNQ (ARM+FPGA) based open multi-camera HW platform for robotics application		 Now
 * Designed and implemented 3D around-view algorithm						 2015
 * Implementation of indoor 3D reconstruction by Kinect and graph optimization			 2014
 
 
 Honors & awards    
-======
+-----
 * 2nd place, 7th SoC design contest, Project Title: "Visual Fatigue Reduction HW for User Comfort", Ministry of Trade, Industry and Energy & Seoul National University, 2011.
 * 2nd place, Core-A application design contest 2011, Project Title: "A bio-medical instrument using Core-A", Korean Intellectual Property Office & Korea Advanced Institute of Science and Technology, 2011.
 * 5th place, Core-A application design contest 2010, Awarded Project Title: "Disparity map accelerator using Core-A", Korean Intellectual Property Office & Korea Advanced Institute of Science and Technology, 2010.
@@ -91,7 +94,7 @@ Honors & awards
 
 
 Selected Publications
-======
+-----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
