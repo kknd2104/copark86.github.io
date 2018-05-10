@@ -10,6 +10,14 @@ redirect_from:
 {% include base_path %}
 Short version [here](http://copark86.github.io/files/CV_Chanoh_Park.pdf)
 
+
+<object data="http://copark86.github.io/files/CV_Chanoh_Park.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://copark86.github.io/files/CV_Chanoh_Park.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://copark86.github.io/files/CV_Chanoh_Park.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 Education
 ======
 * Doctor of Science in Electrical Engineering and Computer Science
