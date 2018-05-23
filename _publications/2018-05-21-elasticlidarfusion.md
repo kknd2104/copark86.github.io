@@ -27,7 +27,7 @@ date: 2018-05-21
 <br>
 
 Related meterials
-:   [Paper download](https://arxiv.org/pdf/1709.01265)
+:   [Paper download](https://arxiv.org/pdf/1711.01691.pdf)
 :   [Poster download](http://copark86.github.io/files/elasticlidarfusion_poster.pdf)
 :   [Presentation download](http://copark86.github.io/files/elasticlidarfusion_ppt.pdf)
 
