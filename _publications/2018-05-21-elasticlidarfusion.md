@@ -28,6 +28,6 @@ date: 2018-05-21
 
 Related meterials
 :   [Paper download](https://arxiv.org/pdf/1711.01691.pdf)
-:   [Poster download](http://copark86.github.io/files/elasticlidarfusion_poster.pdf)
+:   [Poster download](http://copark86.github.io/files/ICRA_ElasticLiDARFusion_poster_20180421_final.pdf)
 :   [Presentation download](http://copark86.github.io/files/elasticlidarfusion_ppt.pdf)
 
