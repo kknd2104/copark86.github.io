@@ -8,7 +8,7 @@ permalink: /publication/2017-10-29-surfelfusion
 
 <br>
 # Demovideo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QNNLncT9XmQ" frameborder="0" allow="autoplay; encrypted-media"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OS34651GURQ" frameborder="0" allow="autoplay; encrypted-media"> </iframe>
 <br>
 
 
