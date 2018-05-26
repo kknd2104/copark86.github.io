@@ -10,7 +10,25 @@ permalink: /publication/2017-10-29-surfelfusion
 # Demovideo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OS34651GURQ" frameborder="0" allow="autoplay; encrypted-media"> </iframe>
 <br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/71ZfnF_4Njc" frameborder="0" allow="autoplay; encrypted-media"> </iframe>
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ybQG3WToklw" frameborder="0" allow="autoplay; encrypted-media"> </iframe>
+<br>
 
+<br>
+# LiDAR Simulator
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G8vr0zym_9s" frameborder="0" allow="autoplay; encrypted-media"> </iframe>
+<br>
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jLOGYEvO-1Y" frameborder="0" allow="autoplay; encrypted-media"> </iframe>
+<br>
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UnFP56ih1OA" frameborder="0" allow="autoplay; encrypted-media"> </iframe>
+<br>
 
 
 Related meterials
