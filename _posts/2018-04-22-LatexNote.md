@@ -69,3 +69,8 @@ Figure size with input
 	}
 	\label{fig:maps}
 	\end{figure}
+
+
+Citation arrangement
+-------------------------------	
+	\usepackage{balance}
