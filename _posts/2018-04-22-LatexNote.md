@@ -24,6 +24,8 @@ Parentheses
     \Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)
 	
 <div>$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$</div>
+<div>$\Biggl{\biggl{\Bigl{\bigl{{x}\bigr}\Bigr}\biggr}\Biggr}$</div>
+<div>$\Biggl[\biggl[\Bigl[\bigl[[x]\bigr]\Bigr]\biggr]\Biggr]$</div>
 
 Markdown
 -------------------------------
@@ -40,4 +42,30 @@ Markdown
 Two lined title
 -------------------------------
 
-\title{Project Proposal:  \protect\\ Deep Map Representation }
+	\title{Project Proposal:  \protect\\ Deep Map Representation }
+
+
+Figure size with includegraphics
+-------------------------------
+	\begin{figure}[t]
+	\centering{
+	\includegraphics[width=240,height=.15\textheight]{figures/PatchSift.pdf}
+	}
+	\caption{	
+	}
+	\label{fig:block}
+	\end{figure}
+	
+	
+
+Figure size with input
+-------------------------------	
+	\begin{figure}[t]
+	\centering{
+	\def\svgwidth{85mm}
+	\input{figures/projected_patch.pdf_tex}
+	}
+	\caption{
+	}
+	\label{fig:maps}
+	\end{figure}
