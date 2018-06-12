@@ -24,7 +24,6 @@ Parentheses
     \Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)
 	
 <div>$\Biggl(\biggl(\Bigl(\bigl((x)\bigr)\Bigr)\biggr)\Biggr)$</div>
-<div>$\Biggl{\biggl{\Bigl{\bigl{{x}\bigr}\Bigr}\biggr}\Biggr}$</div>
 <div>$\Biggl[\biggl[\Bigl[\bigl[[x]\bigr]\Bigr]\biggr]\Biggr]$</div>
 
 Markdown
