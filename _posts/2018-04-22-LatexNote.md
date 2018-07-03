@@ -38,6 +38,16 @@ Markdown
 <div>$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$</div>
 
 
+Cancel
+-------------------------------
+    \usepackage{cancel}
+    \cancelto{0}{x} 
+    \cancel{x} 
+    
+<div>$\cancelto{0}{x} $</div>
+<div>$\cancel{x} $</div>
+
+
 Two lined title
 -------------------------------
 
