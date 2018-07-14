@@ -6,6 +6,9 @@ excerpt: "Chanoh Park, Peyman Moghadam, Soohwan Kim, Alberto Elfes, Clinton Fook
 date: 2018-05-21
 ---
 
+Accepted as a poster at ICRA, 22 May, 2018 
+Accepted as a oral presentation at Australasian Conference on Robotics and Automation (ACRA), 13 December, 2017 
+
 
 # Demovideo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNNLncT9XmQ" frameborder="0" allow="autoplay; encrypted-media"> </iframe>
