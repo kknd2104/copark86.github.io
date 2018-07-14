@@ -5,6 +5,7 @@ excerpt: "Chanoh Park, Soohwan Kim, Peyman Moghadam, Clinton Fookes, Sridha Srid
 permalink: /publication/2017-10-29-surfelfusion
 ---
 
+Accepted as a oral presentation at ICCV workshop on Multiview Relationships in 3D Data, Venice, Italy, October 29, 2017
 
 <br>
 # Demovideo
