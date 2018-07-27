@@ -80,6 +80,17 @@ Figure size with input
 	\end{figure}
 
 
+Figure top and multi column
+-------------------------------	
+[t] for top, * for multi column
+
+	\begin{figure*}[t]
+	\end{figure*}
+
+	\begin{table*}[t]
+	\end{table*}
+
+
 Citation arrangement
 -------------------------------	
 	\usepackage{balance}
